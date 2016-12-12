@@ -1,0 +1,14 @@
+{
+  "name": "auto-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Wade Mauger",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  }
+}
